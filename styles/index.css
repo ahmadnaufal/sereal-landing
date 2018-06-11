@@ -1,0 +1,25 @@
+@import url("fonts.css");
+
+section#welcome {
+    min-height: 100vh;
+    background-color: #F3ACCD;
+    padding-top: 100px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.style-text {
+    font-family: Ubuntu;
+    color: white;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+#bm {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 43px;
+}
